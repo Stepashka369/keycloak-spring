@@ -76,3 +76,8 @@ bin/
 *~.nib
 *.orig
 *.rej
+
+.mvn
+mvnw.cmd
+mvnw
+HELP.md
